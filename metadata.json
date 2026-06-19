@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة الرخام",
+  "description": "تطبيق مخصص لمشرفي ومقاولي الرخام لحساب المساحات المنفذة بدقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
